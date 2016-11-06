@@ -20,6 +20,9 @@ h1{
   color: #fff;
 	font-family: Helvetica Neue, sans-serif;
 }
+a:link, a:visited, a:hover, a:active{
+	color: ##252525;
+}
 
 #clockdiv{
 	font-family: Helvetica Neue, sans-serif;
