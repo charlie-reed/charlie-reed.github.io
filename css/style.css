@@ -16,6 +16,11 @@ h1{
 	justify-content: center;
 }
 
+h2{
+	color: #fff;
+	font-family: Helvetica Neue, sans-serif;
+}
+
 #link{
   color: #fff;
 	font-family: Helvetica Neue, sans-serif;
