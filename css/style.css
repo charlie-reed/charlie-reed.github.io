@@ -1,5 +1,5 @@
 html {
-    font-family: Helvetica Neue, arial, sans-serif;
+    font-family: Helvetica Neue, Arial, Sans-Serif;
     font-weight: 100;
     background: #2a2b2b;
     height: 100%;
@@ -33,7 +33,7 @@ h2 {
 }
 #link {
     color: #fff;
-    font-family: Helvetica Neue, sans-serif;
+    font-family: Helvetica Neue, Arial, Sans-Serif;
 }
 a:link,
 a:visited,
@@ -43,7 +43,7 @@ a:active {
     text-decoration: none;
 }
 #clockdiv {
-    font-family: Helvetica Neue, sans-serif;
+    font-family: Helvetica Neue, Arial,Sans-Serif;
     color: #fff;
     font-weight: 100;
     text-align: center;
